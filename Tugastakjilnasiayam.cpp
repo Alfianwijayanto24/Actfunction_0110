@@ -21,7 +21,13 @@ int Perosedur()
     luas = D1 * D2 /2;   
     cout << "Hasil: " << luas ;
 }
-
+int main()
+{
+    input();
+    Perosedur();
+    
+    
+}
 
 
 
